@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins&display=swap');
-* {
+*
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 
   }
+  /*Smartfones (menos de 600px) */
+  @media only screen and (max-width: 600px){}
+  /*Dispositivos ligeiramente maiores */
+  @media only screen and (min-width: 600px){}
+  /*Dispositivos medios */
+  @media only screen and (max-width: 768px){}
+  /*Dispositivos Largos (Desktops,laptops, 992px pra cima) */
+  @media only screen and (max-width: 992px){}
+  /*Super largos (Telas maiores, tv's,1200px pra cima) */
+  @media only screen and (min-width: 1200px){}
 
   :root{
     --primary-color: #4628FF;
@@ -121,7 +132,7 @@ header span{
         padding: 1.25rem 1.5rem;
         align-items: center;
         gap: 1.2rem ;
-        background-image: url('../img/web button\.jpg');
+        background-image: url('../img/web\ button\.jpg');
         background-size: cover;
         background-color: var(--primary-color);
         color: #ffe4e4;
