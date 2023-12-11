@@ -168,6 +168,33 @@ header span{
         height: 50vh;
         padding: 2rem;
         gap: 2rem;
+
+          /* Adaptação para Smartphones (menos de 600px) */
+@media only screen and (max-width: 600px) {
+  header {
+    padding-left: 2rem; /* Ajuste de padding para melhor visualização em telas menores */
+  }
+}
+
+/* Estilos comuns para Dispositivos ligeiramente maiores (pelo menos 600px) */
+@media only screen and (min-width: 600px) {
+  /* Adaptações específicas para telas com 600px ou mais */
+}
+
+/* Adaptação para Dispositivos médios (até 768px) */
+@media only screen and (max-width: 768px) {
+  /* Ajuste de estilos para telas até 768px de largura */
+}
+
+/* Adaptação para Dispositivos Largos (Desktops, laptops, até 992px) */
+@media only screen and (max-width: 992px) {
+  /* Ajuste de estilos para telas até 992px de largura */
+}
+
+/* Adaptação para Super largos (Telas maiores, tv's, 1200px pra cima) */
+@media only screen and (min-width: 1200px) {
+  /* Ajuste de estilos para telas a partir de 1200px de largura */
+}
       }
 
       #secao-apresentacao img:first, #secao-apresentacao1 img:first, #secao-apresentacao2 img:first, #secao-apresentacao3 img:first {
@@ -175,6 +202,32 @@ header span{
         width: 20rem;
         height: 16rem;
 
+          /* Adaptação para Smartphones (menos de 600px) */
+@media only screen and (max-width: 600px) {
+  header {
+    padding-left: 2rem; /* Ajuste de padding para melhor visualização em telas menores */
+  }
+}
+
+/* Estilos comuns para Dispositivos ligeiramente maiores (pelo menos 600px) */
+@media only screen and (min-width: 600px) {
+  /* Adaptações específicas para telas com 600px ou mais */
+}
+
+/* Adaptação para Dispositivos médios (até 768px) */
+@media only screen and (max-width: 768px) {
+  /* Ajuste de estilos para telas até 768px de largura */
+}
+
+/* Adaptação para Dispositivos Largos (Desktops, laptops, até 992px) */
+@media only screen and (max-width: 992px) {
+  /* Ajuste de estilos para telas até 992px de largura */
+}
+
+/* Adaptação para Super largos (Telas maiores, tv's, 1200px pra cima) */
+@media only screen and (min-width: 1200px) {
+  /* Ajuste de estilos para telas a partir de 1200px de largura */
+}
 
       }
 
@@ -186,6 +239,32 @@ header span{
         align-items: flex-start;
         max-width: 60%;
 
+          /* Adaptação para Smartphones (menos de 600px) */
+@media only screen and (max-width: 600px) {
+  header {
+    padding-left: 2rem; /* Ajuste de padding para melhor visualização em telas menores */
+  }
+}
+
+/* Estilos comuns para Dispositivos ligeiramente maiores (pelo menos 600px) */
+@media only screen and (min-width: 600px) {
+  /* Adaptações específicas para telas com 600px ou mais */
+}
+
+/* Adaptação para Dispositivos médios (até 768px) */
+@media only screen and (max-width: 768px) {
+  /* Ajuste de estilos para telas até 768px de largura */
+}
+
+/* Adaptação para Dispositivos Largos (Desktops, laptops, até 992px) */
+@media only screen and (max-width: 992px) {
+  /* Ajuste de estilos para telas até 992px de largura */
+}
+
+/* Adaptação para Super largos (Telas maiores, tv's, 1200px pra cima) */
+@media only screen and (min-width: 1200px) {
+  /* Ajuste de estilos para telas a partir de 1200px de largura */
+}
       }
 
       #cards-jogos img{
@@ -194,6 +273,32 @@ header span{
         gap: 1rem;
         justify-content: space-between;
         max-width: 31.25rem;
+          /* Adaptação para Smartphones (menos de 600px) */
+@media only screen and (max-width: 600px) {
+  header {
+    padding-left: 2rem; /* Ajuste de padding para melhor visualização em telas menores */
+  }
+}
+
+/* Estilos comuns para Dispositivos ligeiramente maiores (pelo menos 600px) */
+@media only screen and (min-width: 600px) {
+  /* Adaptações específicas para telas com 600px ou mais */
+}
+
+/* Adaptação para Dispositivos médios (até 768px) */
+@media only screen and (max-width: 768px) {
+  /* Ajuste de estilos para telas até 768px de largura */
+}
+
+/* Adaptação para Dispositivos Largos (Desktops, laptops, até 992px) */
+@media only screen and (max-width: 992px) {
+  /* Ajuste de estilos para telas até 992px de largura */
+}
+
+/* Adaptação para Super largos (Telas maiores, tv's, 1200px pra cima) */
+@media only screen and (min-width: 1200px) {
+  /* Ajuste de estilos para telas a partir de 1200px de largura */
+}
       }
 
       .plataformas{
@@ -284,6 +389,32 @@ header span{
       border-radius: .5rem;
       padding: 2rem;
       margin: 1.25rem ;
+        /* Adaptação para Smartphones (menos de 600px) */
+@media only screen and (max-width: 600px) {
+  header {
+    padding-left: 2rem; /* Ajuste de padding para melhor visualização em telas menores */
+  }
+}
+
+/* Estilos comuns para Dispositivos ligeiramente maiores (pelo menos 600px) */
+@media only screen and (min-width: 600px) {
+  /* Adaptações específicas para telas com 600px ou mais */
+}
+
+/* Adaptação para Dispositivos médios (até 768px) */
+@media only screen and (max-width: 768px) {
+  /* Ajuste de estilos para telas até 768px de largura */
+}
+
+/* Adaptação para Dispositivos Largos (Desktops, laptops, até 992px) */
+@media only screen and (max-width: 992px) {
+  /* Ajuste de estilos para telas até 992px de largura */
+}
+
+/* Adaptação para Super largos (Telas maiores, tv's, 1200px pra cima) */
+@media only screen and (min-width: 1200px) {
+  /* Ajuste de estilos para telas a partir de 1200px de largura */
+}
   
   }
   
